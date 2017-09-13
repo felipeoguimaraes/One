@@ -1,0 +1,6 @@
+c:\users\matheus\documents\visual studio 2015\Projects\WcfOne\bin\WcfOne.dll.config
+c:\users\matheus\documents\visual studio 2015\Projects\WcfOne\bin\WcfOne.dll
+c:\users\matheus\documents\visual studio 2015\Projects\WcfOne\bin\WcfOne.pdb
+c:\users\matheus\documents\visual studio 2015\Projects\WcfOne\obj\Debug\WcfOne.csprojResolveAssemblyReference.cache
+c:\users\matheus\documents\visual studio 2015\Projects\WcfOne\obj\Debug\WcfOne.dll
+c:\users\matheus\documents\visual studio 2015\Projects\WcfOne\obj\Debug\WcfOne.pdb
